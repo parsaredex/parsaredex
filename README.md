@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">🔭 I’m currently working on my startup<br><br>🌱 I’m currently learning linux, owsap 10, Network +<br><br>💬 Ask me about Node.js, React, linux, MongoDB... or anything<br><br>📫 How to reach me kianredex@gmail.com<br><br>⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs</h3>
+<p align="left">🔭 I’m currently working on my startup<br><br>🌱 I’m currently learning linux, owsap 10, Network +<br><br>💬 Ask me about Node.js, React, linux, MongoDB... or anything<br><br>📫 How to reach me kianredex@gmail.com<br><br>⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs</p>
 
 ###
 
